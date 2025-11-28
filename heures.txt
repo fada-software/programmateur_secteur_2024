@@ -1,0 +1,4 @@
+Semaine ON  |19:07
+Semaine OFF |23:07
+Weekend ON  |08:07
+Weekend OFF |23:07
